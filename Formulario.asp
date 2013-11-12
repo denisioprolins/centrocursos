@@ -4,7 +4,6 @@
 	Response.cookies("fristname")=Pnome
 
 %>
-
 	<form method="get" action="Formulario.asp">
 	<br>
 		Primeiro Nome: <input type="text" name="primeiro" /><br>
