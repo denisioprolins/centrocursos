@@ -13,7 +13,7 @@
 		session("user_cod")  = rs("USU_ID")
 		session("user_ema")	 = rs("USU_EMA")
 
-		response.redirect ("formulario.asp")
+		response.redirect ("inicial.asp")
 
 	else
 		response.redirect ("index.asp?msg=errologin")
